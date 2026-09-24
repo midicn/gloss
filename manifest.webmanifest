@@ -1,0 +1,30 @@
+{
+  "name": "midicn · 音乐词典",
+  "short_name": "音乐词典",
+  "description": "【批次 M8】全局速查词典（100–200 字/条），每条底部链到对应子站的深读条目。2026-09-24 从 home 站拆出独立。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#5C8A6B",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
