@@ -1,7 +1,7 @@
 {
   "name": "midicn · Glossary",
   "short_name": "Glossary",
-  "description": "【批次 M8】全局速查词典（100–200 字/条），每条底部链到对应子站的深读条目。2026-09-24 从 home 站拆出独立。",
+  "description": "A music glossary you can read as well as look things up in — terms, people, genres, instruments and Chinese music, each defined in a sentence and linked to deeper reading elsewhere.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",
