@@ -1,6 +1,6 @@
 {
   "name": "midicn · Glossary",
-  "short_name": "Glossary",
+  "short_name": "Dictionary",
   "description": "A music glossary you can read as well as look things up in — terms, people, genres, instruments and Chinese music, each defined in a sentence and linked to deeper reading elsewhere.",
   "start_url": "../en/",
   "scope": "./",
