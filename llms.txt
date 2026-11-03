@@ -1,0 +1,35 @@
+# MIDI音乐 · 音乐词典
+
+> 听音乐，学音乐，做音乐。
+
+查音乐术语、人物与体裁，并沿链接阅读相关知识。
+
+这是网站内容入口索引。收录与引用不改变原文、曲目、音色或歌词的许可；本文件不授予模型训练权。
+This curated discovery index grants no model-training or third-party material rights.
+
+## 网站与使用说明
+
+- [MIDI音乐：站点与使用说明](https://home.midicn.com/about/): 品牌、分站、来源与反馈。
+
+## 内容入口
+
+- [音乐词典 · midicn](https://gloss.midicn.com/): 查音乐术语、人物与体裁，并沿链接阅读相关知识。
+- [360 合约 · 音乐词典](https://gloss.midicn.com/360-deal/): 唱片公司分享艺人演出、周边等多渠道收入的合约
+- [高八度记号 · 音乐词典](https://gloss.midicn.com/8va/): 把音符整体移高八度演奏的虚线记号
+- [恢复原速 · 音乐词典](https://gloss.midicn.com/a-tempo/): 回到之前的速度，结束自由或渐慢
+- [关于音乐词典 · 音乐词典](https://gloss.midicn.com/about/): 音乐词典收录什么、怎么查、现在到哪一步。
+- [吸声 · 音乐词典](https://gloss.midicn.com/absorption/): 把声能转成热，减少反射与混响
+- [渐快 · 音乐词典](https://gloss.midicn.com/accelerando/): 速度逐渐加快，常缩写为 accel.
+- [重音记号 · 音乐词典](https://gloss.midicn.com/accent/): 让某个音被听见——不一定只是更响
+- [强拍经过音 · 音乐词典](https://gloss.midicn.com/accented-passing-tone/): 落在强拍上的经过音，带倚音式的张力
+- [短倚音 · 音乐词典](https://gloss.midicn.com/acciaccatura/): 被快速「压」过去的小装饰音，几乎不占时值
+- [变音记号 · 音乐词典](https://gloss.midicn.com/accidental/): 升号、降号、还原号——临时改变一个音
+- [手风琴 · 音乐词典](https://gloss.midicn.com/accordion/): 五语对照：Accordion · Fisarmonica · Akkordeon
+- [自由处理 · 音乐词典](https://gloss.midicn.com/ad-libitum/): 按演奏者的判断处理，不等于随意乱来
+- [小柔板 · 音乐词典](https://gloss.midicn.com/adagietto/): 比柔板略快的从容速度，气质亲密
+- [柔板 · 音乐词典](https://gloss.midicn.com/adagio/): 从容、舒缓的速度术语，约每分钟 66–76 拍
+- [加音和弦 · 音乐词典](https://gloss.midicn.com/added-tone/): 三和弦上直接加音、不经过七和弦的和弦
+
+## English
+
+- [MIDI Music](https://home.midicn.com/en/): Listen, learn and make music.
